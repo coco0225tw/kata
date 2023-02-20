@@ -1,0 +1,5 @@
+D:\mine\kata\vowelCount\VowelCount\obj\Debug\net6.0\VowelCount.csproj.AssemblyReference.cache
+D:\mine\kata\vowelCount\VowelCount\obj\Debug\net6.0\VowelCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\kata\vowelCount\VowelCount\obj\Debug\net6.0\VowelCount.AssemblyInfoInputs.cache
+D:\mine\kata\vowelCount\VowelCount\obj\Debug\net6.0\VowelCount.AssemblyInfo.cs
+D:\mine\kata\vowelCount\VowelCount\obj\Debug\net6.0\VowelCount.csproj.CoreCompileInputs.cache
