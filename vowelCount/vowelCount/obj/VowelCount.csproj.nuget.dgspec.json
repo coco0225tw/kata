@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mine\\kata\\vowelCount\\VowelCount\\VowelCount.csproj": {}
+    "D:\\mine\\kata\\VowelCount\\VowelCount\\VowelCount.csproj": {}
   },
   "projects": {
-    "D:\\mine\\kata\\vowelCount\\VowelCount\\VowelCount.csproj": {
+    "D:\\mine\\kata\\VowelCount\\VowelCount\\VowelCount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mine\\kata\\vowelCount\\VowelCount\\VowelCount.csproj",
+        "projectUniqueName": "D:\\mine\\kata\\VowelCount\\VowelCount\\VowelCount.csproj",
         "projectName": "VowelCount",
-        "projectPath": "D:\\mine\\kata\\vowelCount\\VowelCount\\VowelCount.csproj",
+        "projectPath": "D:\\mine\\kata\\VowelCount\\VowelCount\\VowelCount.csproj",
         "packagesPath": "C:\\Users\\river.kuo18\\.nuget\\packages\\",
-        "outputPath": "D:\\mine\\kata\\vowelCount\\VowelCount\\obj\\",
+        "outputPath": "D:\\mine\\kata\\VowelCount\\VowelCount\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\river.kuo18\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,10 +74,6 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.12, 6.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[6.0.12, 6.0.12]"
             },
             {
