@@ -1,0 +1,5 @@
+D:\mine\kata\OrderedCountofCharacters\OrderedCountofCharacters\obj\Debug\net6.0\OrderedCountofCharacters.csproj.AssemblyReference.cache
+D:\mine\kata\OrderedCountofCharacters\OrderedCountofCharacters\obj\Debug\net6.0\OrderedCountofCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\kata\OrderedCountofCharacters\OrderedCountofCharacters\obj\Debug\net6.0\OrderedCountofCharacters.AssemblyInfoInputs.cache
+D:\mine\kata\OrderedCountofCharacters\OrderedCountofCharacters\obj\Debug\net6.0\OrderedCountofCharacters.AssemblyInfo.cs
+D:\mine\kata\OrderedCountofCharacters\OrderedCountofCharacters\obj\Debug\net6.0\OrderedCountofCharacters.csproj.CoreCompileInputs.cache
