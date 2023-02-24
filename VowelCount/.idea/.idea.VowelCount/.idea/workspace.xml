@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a0e67f8-c0ca-4414-b12f-e103095619c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/.idea/.idea.SquareEveryDigit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/.idea/.idea.SquareEveryDigit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/.idea/.idea.SquareEveryDigit/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/.idea/.idea.SquareEveryDigit/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/SquareEveryDigit.sln" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/SquareEveryDigit/SquareEveryDigit.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/SquareEveryDigit/SquareEveryDigit.csproj" afterDir="false" />
@@ -21,6 +25,7 @@
       <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/SquareEveryDigit/obj/project.nuget.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/SquareEveryDigit/obj/project.packagespec.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SquareEveryDigit/SquareEveryDigit/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VowelCount/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
       <updated>1676966695708</updated>
       <workItem from="1676966697141" duration="100000" />
       <workItem from="1676966810984" duration="3344000" />
-      <workItem from="1677204011851" duration="819000" />
+      <workItem from="1677204011851" duration="1144000" />
     </task>
     <servers />
   </component>
