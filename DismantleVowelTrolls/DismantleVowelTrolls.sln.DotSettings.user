@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=325f84ff_002D1812_002D4f66_002Dadaf_002D8073e774790d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCase1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4CD0CE-5D4C-409C-AB88-D3442C79F369::net6.0::DismantleVowelTrolls.Tests.TestCase1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4CD0CE-5D4C-409C-AB88-D3442C79F369::net6.0::DismantleVowelTrolls.Tests.TestCase2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4CD0CE-5D4C-409C-AB88-D3442C79F369::net6.0::DismantleVowelTrolls.Tests.TestCase4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4CD0CE-5D4C-409C-AB88-D3442C79F369::net6.0::DismantleVowelTrolls.Tests.TestCase5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4CD0CE-5D4C-409C-AB88-D3442C79F369::net6.0::DismantleVowelTrolls.Tests.TestCase3&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
