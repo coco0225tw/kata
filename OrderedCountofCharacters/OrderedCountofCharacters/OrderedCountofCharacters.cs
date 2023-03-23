@@ -2,20 +2,15 @@
 
 public class OrderedCountofCharacters
 {
-    public static List<Tuple<char, int>> OrderedCount(string input) {
-        var list = new List<Tuple<char, int>>();
-        while (input.Length != 0)
-        {
-            var firstChar = input[0];
-            var counter = 0;
-            foreach (var item in input)
-            {
-                if (item == firstChar)
-                    counter++;
-            }
-            list.Add(Tuple.Create(firstChar, counter));
-            input = input.Replace(firstChar.ToString(), "");
-        }
-        return list;
-    }
+    public static Dictionary<char, int> OrderedCount(string input)
+    {
+        Dictionary<char, int> counts = new Dictionary<char, int>();
+        for (int i = 0; i < input.Length; i++)
+            if (counts.ContainsKey(input[i]))
+                counts[input[i]]++;
+            else
+                counts.Add(input[i], 1);
+        return counts
+    ;
+}
 }
