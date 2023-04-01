@@ -7,7 +7,7 @@
 - [x]  **List Filtering** [Training on List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/csharp)
 - [x]  **Ordered Count of Characters [Training on Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074/train/csharp)**
 - [x]  **Easy wallpaper [Training on Easy wallpaper](https://www.codewars.com/kata/567501aec64b81e252000003/train/csharp)**
-
+---
 - [x]  **Find the odd int [Training on Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)**
 - [x]  **Array.diff [Training on Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)**
 - [x]  **Multiples of 3 or 5 [Training on Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)**
