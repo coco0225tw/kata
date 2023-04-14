@@ -42,4 +42,10 @@ public class Tests
     {
         Assert.That(Number.DigitalRoot(999999999999), Is.EqualTo(9));
     }
+    
+    [Test]
+    public static void Input_is_negative_int_should_return_itself()
+    {
+        Assert.That(Number.DigitalRoot(-123), Is.EqualTo(-123));
+    }
 }
