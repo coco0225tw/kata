@@ -19,4 +19,17 @@ public class Tests
         Assert.That(Number.DigitalRoot(16), Is.EqualTo(7));
     }
     
+    [Test]
+    public static void Input_has_3_digits()
+    {
+        Assert.That(Number.DigitalRoot(123), Is.EqualTo(6));
+    }
+    
+    [Test]
+    public static void Input_has_3_digits_and_should_do_recursion_twice()
+    {
+        Assert.That(Number.DigitalRoot(195), Is.EqualTo(6));
+    }
+    
+    
 }
