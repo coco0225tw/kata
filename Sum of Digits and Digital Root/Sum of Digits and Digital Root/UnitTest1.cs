@@ -13,4 +13,10 @@ public class Tests
         Assert.That(Number.DigitalRoot(0), Is.EqualTo(0));
     }
     
+    [Test]
+    public static void Input_has_2_digits()
+    {
+        Assert.That(Number.DigitalRoot(16), Is.EqualTo(7));
+    }
+    
 }
