@@ -26,7 +26,7 @@ public class Tests
     }
     
     [Test]
-    public static void Input_has_3_digits_and_should_do_recursion_twice()
+    public static void Input_has_3_digits_and_should_do_recursion_multiple_times()
     {
         Assert.That(Number.DigitalRoot(195), Is.EqualTo(6));
     }
