@@ -31,5 +31,15 @@ public class Tests
         Assert.That(Number.DigitalRoot(195), Is.EqualTo(6));
     }
     
+    [Test]
+    public static void Input_has_5_digits_and_should_do_recursion_multiple_times()
+    {
+        Assert.That(Number.DigitalRoot(167346), Is.EqualTo(9));
+    }
     
+    [Test]
+    public static void Input_has_12_digits_and_should_do_recursion_multiple_times()
+    {
+        Assert.That(Number.DigitalRoot(999999999999), Is.EqualTo(9));
+    }
 }

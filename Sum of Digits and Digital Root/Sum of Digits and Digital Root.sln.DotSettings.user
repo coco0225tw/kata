@@ -1,9 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aea04d30_002Dde21_002D4858_002Dab28_002Dc344c0e33935/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Input_is_0" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::BC80E9AB-DE53-43EF-A78A-6245BBBAAD02::net6.0::Sum_of_Digits_and_Digital_Root.Tests.Input_is_0&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::BC80E9AB-DE53-43EF-A78A-6245BBBAAD02::net6.0::Sum_of_Digits_and_Digital_Root.Tests.Input_has_2_digits&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::BC80E9AB-DE53-43EF-A78A-6245BBBAAD02::net6.0::Sum_of_Digits_and_Digital_Root.Tests.Input_has_3_digits_and_should_do_recursion_twice&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::BC80E9AB-DE53-43EF-A78A-6245BBBAAD02::net6.0::Sum_of_Digits_and_Digital_Root.Tests.Input_has_3_digits&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BC80E9AB-DE53-43EF-A78A-6245BBBAAD02::net6.0::Sum_of_Digits_and_Digital_Root.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
