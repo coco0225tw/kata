@@ -11,7 +11,7 @@ public static class Kata
     
     private static string HandleSingularOrPlural(string[] name)
     {
-        var singularOrPlural = name.Length <= 1 ? "" : "s";
+        var singularOrPlural = name.Length <= 1 ? "s" : "";
         var str = $"like{singularOrPlural} this";
         return str;
     }
@@ -19,7 +19,7 @@ public static class Kata
     {
         return name.Length switch
         {
-            0 => "No one",
+            0 => "no one",
             1 => name[0],
             2 => $"{name[0]} and ${name[1]}",
             3 => $"{name[0]}, {name[1]} and ${name[2]}",

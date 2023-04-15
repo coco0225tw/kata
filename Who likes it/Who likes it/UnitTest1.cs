@@ -2,14 +2,11 @@ namespace Who_likes_it;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
 
     [Test]
-    public void Test1()
+    public void when_input_array_is_empty()
     {
-        Assert.Pass();
+        Assert.That(Kata.Likes(Array.Empty<string>()), Is.EqualTo("no one likes this"));
+
     }
 }
