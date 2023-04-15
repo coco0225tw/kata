@@ -15,4 +15,10 @@ public class Tests
     {
         Assert.That(Persist.Persistence(25), Is.EqualTo(2));
     }
+    
+    [Test]
+    public void multiple_3_times()
+    {
+        Assert.That(Persist.Persistence(39), Is.EqualTo(3));
+    }
 }

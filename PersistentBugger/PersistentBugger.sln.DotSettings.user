@@ -1,7 +1,11 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5bbec665_002D8b64_002D4158_002D9f09_002De768a599f794/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="multiple_0_times" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5bbec665_002D8b64_002D4158_002D9f09_002De768a599f794/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="multiple_0_times" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::AE091CDE-3F1D-4959-A256-83194A9755B4::net6.0::PersistentBugger.Tests.multiple_0_times&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::AE091CDE-3F1D-4959-A256-83194A9755B4::net6.0::PersistentBugger.Tests.multiple_2_times&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE091CDE-3F1D-4959-A256-83194A9755B4::net6.0::PersistentBugger.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e70bf3a7_002D0719_002D4d3b_002Db08a_002D476f7938e3a7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="multiple_2_times" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::AE091CDE-3F1D-4959-A256-83194A9755B4::net6.0::PersistentBugger.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
