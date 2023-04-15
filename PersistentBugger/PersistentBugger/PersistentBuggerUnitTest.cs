@@ -21,4 +21,10 @@ public class Tests
     {
         Assert.That(Persist.Persistence(39), Is.EqualTo(3));
     }
+
+    [Test]
+    public void multiple_4_times()
+    {
+        Assert.That(Persist.Persistence(999), Is.EqualTo(4));
+    }
 }
