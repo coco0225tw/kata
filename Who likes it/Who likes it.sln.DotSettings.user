@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::4ECE59AB-7E6B-4C74-9872-0B7FE34643E0::net6.0::Who_likes_it.Tests.when_input_array_is_empty&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::4ECE59AB-7E6B-4C74-9872-0B7FE34643E0::net6.0::Who_likes_it.Tests.when_input_array_contains_one_person&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4ECE59AB-7E6B-4C74-9872-0B7FE34643E0::net6.0::Who_likes_it.Tests.when_input_array_contains_two_person&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
