@@ -27,4 +27,16 @@ public class Tests
     {
         Assert.That(Persist.Persistence(999), Is.EqualTo(4));
     }
+
+    [Test]
+    public void when_input_is_0_should_multiply_0_time()
+    {
+        Assert.That(Persist.Persistence(999), Is.EqualTo(4));
+    }
+    
+    [Test]
+    public void when_input_is_negative_should_multiply_0_time()
+    {
+        Assert.That(Persist.Persistence(-10), Is.EqualTo(0));
+    }
 }

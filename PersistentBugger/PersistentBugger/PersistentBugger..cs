@@ -10,7 +10,7 @@ public class Persist
             var times = 0;
             long multiply = 1;
     
-            if(n/10==0) return 0;
+            if(n/10==0 || n < 0) return 0;
     
             while(true)
             {
