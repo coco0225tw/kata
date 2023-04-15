@@ -1,5 +1,6 @@
-global using NUnit.Framework;
-public class Number
+namespace Sum_of_Digits_and_Digital_Root;
+
+public static class Number
 {
     public static int DigitalRoot(long n)
     {

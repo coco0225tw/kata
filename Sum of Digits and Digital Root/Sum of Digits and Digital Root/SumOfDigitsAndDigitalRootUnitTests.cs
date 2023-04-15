@@ -1,12 +1,9 @@
+using NUnit.Framework;
+
 namespace Sum_of_Digits_and_Digital_Root;
 
-public class Tests
+public abstract class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-    
     [Test]
     public static void Input_is_0()
     {
