@@ -12,7 +12,7 @@ public static class Kata
     private static string HandleSingularOrPlural(string[] name)
     {
         var singularOrPlural = name.Length <= 1 ? "" : "s";
-        var str = $"like{singularOrPlural} it.";
+        var str = $"like{singularOrPlural} this";
         return str;
     }
     private static string HandleDisplayName(string[] name)
