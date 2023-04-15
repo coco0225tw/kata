@@ -31,7 +31,7 @@ public static class Kata
     
     private static string[] HandleInvalidInput(string[] name)
     {
-        var filtered = Array.FindAll(name, string.IsNullOrWhiteSpace);
+        var filtered = Array.FindAll(name, e => !string.IsNullOrWhiteSpace(e));
         return filtered;
     }
 }

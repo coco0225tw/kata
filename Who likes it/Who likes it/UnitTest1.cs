@@ -40,4 +40,10 @@ public class Tests
     {
         Assert.That(Kata.Likes(new string[] {"Alex", "Jacob", "Mark", "Max", "Ray", "Eric"}), Is.EqualTo("Alex, Jacob and 4 others like this"));
     }
+    
+    [Test]
+    public void when_input_array_contains_invalid_string()
+    {
+        Assert.That(Kata.Likes(new string[] {"Alex", "Jacob", "Mark", " ", "  ", "", "Jason"}), Is.EqualTo("Alex, Jacob and 2 others like this"));
+    }
 }
