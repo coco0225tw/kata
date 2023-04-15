@@ -1,6 +1,4 @@
 global using NUnit.Framework;
-using System.Collections;
-using System;
 public class Number
 {
     public static int DigitalRoot(long n)
