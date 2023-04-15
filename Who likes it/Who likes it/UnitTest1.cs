@@ -18,6 +18,12 @@ public class Tests
     [Test]
     public void when_input_array_contains_two_person()
     {
+        Assert.That(Kata.Likes(new string[] {"Jacob", "Alex"}), Is.EqualTo("Jacob and Alex like this"));
+    }
+    
+    [Test]
+    public void when_input_array_contains_three_person()
+    {
         Assert.That(Kata.Likes(new string[] {"Max", "John", "Mark"}), Is.EqualTo("Max, John and Mark like this"));
     }
 }
