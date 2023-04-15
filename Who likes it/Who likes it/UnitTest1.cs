@@ -1,3 +1,5 @@
+using NUnit.Framework;
+
 namespace Who_likes_it;
 
 public class Tests
