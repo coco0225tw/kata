@@ -6,8 +6,9 @@ public class Tests
 {
     
     [Test]
-    public void Test1()
+    public void return_odd_int()
     {
-        Assert.Pass();
+        int[] input = {2,6,8,-10,3}; 
+        Assert.That(Kata.Find(input), Is.EqualTo(3));
     }
 }
