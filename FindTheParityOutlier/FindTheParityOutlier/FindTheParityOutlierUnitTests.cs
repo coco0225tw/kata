@@ -17,4 +17,11 @@ public class Tests
         int[] input = {5,1,8,-10,3}; 
         Assert.That(Kata.Find(input), Is.EqualTo(8));
     }
+    
+    [Test]
+    public static void test_intMaxValue_and_0()
+    {
+        int[] input = {0, int.MaxValue, 1}; 
+        Assert.That(Kata.Find(input), Is.EqualTo(0));
+    }
 }

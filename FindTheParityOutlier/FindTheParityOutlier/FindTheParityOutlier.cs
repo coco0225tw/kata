@@ -1,6 +1,6 @@
 namespace FindTheParityOutlier;
 
-public class Kata
+public abstract class Kata
 {
     public static int Find(int[] integers)
     {

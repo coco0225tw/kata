@@ -1,6 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27a57ae6_002D6611_002D4505_002Db5b2_002D07fbdb002c03/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="input_contains_negative_should_not_return" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::ED926875-1FD0-497B-B538-9A8263017802::net6.0::FindTheParityOutlier.Tests.return_even_int&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ED926875-1FD0-497B-B538-9A8263017802::net6.0::FindTheParityOutlier.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
