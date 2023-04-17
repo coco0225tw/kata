@@ -19,4 +19,4 @@ Part 3
 - [x]  **Sum of Digits / Digit Root [Training on Sum of Digits / Digit Root](https://www.codewars.com/kata/541c8630095125aba6000c00)**
 - [x]  **Who likes it? [Training on Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)**
 - [ ]  **Find The Parity Outlier [Training on Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)**
-- [ ]  **Persistent Bugger [Training on Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)**
+- [x]  **Persistent Bugger [Training on Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)**
